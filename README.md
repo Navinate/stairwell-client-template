@@ -6,4 +6,6 @@ Use this template to create your own Javascript visual for the StairWELL project
 
 The lib folder contains a minified version of the websocket client library (Socket.io) that is used for handling the pushing and subscription of inputted data.
 
+the inputted variables range from 0-100.
+
 ##### MIT License
